@@ -1,2 +1,2 @@
 # new_test
-test new 
+test new for git commands demonstration
